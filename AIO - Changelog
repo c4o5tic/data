@@ -1,0 +1,214 @@
+    ______      ________     _          
+   / ____/___ _/ __/ __/__  (_)___  ___ 
+  / /   / __ `/ /_/ /_/ _ \/ / __ \/ _ \
+ / /___/ /_/ / __/ __/  __/ / / / /  __/
+ \____/\__,_/_/ /_/  \___/_/_/ /_/\___/ 
+ 
+ 
+Update                  By:
+ Notes:                  C4O5
+ 
+Last version info:
+ [+] Update V6.2 -> V6.4:
+ [+] - Fix
+ [+]
+ [+] - Netflix (Fix)
+ [+]
+ [+] - HBO Max ProxyCheck (Fix)
+ [+] - WWE (ADDED)
+ [+] - Minecraft (Added)
+ [+] - Log -> Combo (Added more prefix, now it extracts more accounts)
+ [+] - Max timeout -> 10
+ [+] - Internal optimizations
+ [+] - DAZN Now is proxyless using VPN VprVPN
+ [+] - PayPal FIX (Now the currency can be changed to you own)
+ [+] - Ram consuption limited to 240 mb (chunked as much the checker required)
+ 
+ 
+======
+ Update V5.6 -> 6.1:
+ - Bug Fix (HBO MAX)
+ 
+ - Bug Fix
+ - Bug Fix
+ 
+ - New Paramount+ (Paramount V2 FAST!)
+ - New Paramount+ (Paramount V2 FAST!)
+ - Now Disney/Star/Paramount show the profiles usernames on the hit!
+ 
+ - Bug Fix
+ - Title changed
+ - New instant hit save
+ - Minor improvements
+======
+ Update V5.4 -> 5.5:
+ - Fix ProxyCheck / Minor improvements
+ 
+ - Fix (Crash [ClaroVideo/VrprVPN])
+ - MAJOR OPTIMIZATION OF 9800%!!! [ComboCleaner take now just 1 second per million of lines to process!]
+ - ComboCleaner now you can select multiple files at once!
+ - CREATE YOU OWN COMBOS!! -> Log to COMBO
+======
+ Update V5.2 -> 5.3:
+ - Fix
+ - Add HBO Max again
+ - VyprVPN added
+ - ClaroVideo added
+ - Timeout on proxy
+======
+ Update V5.1:
+ - Title change [CPM Ubication now is more easy to read]
+ - UI Load file change
+ - HBO Max removed (It WILL be replaced with MAX [Service By discovery])
+ - Malformed hit now is show on screen (If a hit is malformed is ignored [As always, but now it shows])
+ - Netflix change [Country fix? - Now it shows the current counrty and the sign in country]
+ - Funimation UI change
+ - Error that crash the checker on start was fixed
+ - Banner changed
+ - Minimum threads now -> 10
+ - Maximum timeout now -> 20
+======
+Update V5.0:
+ - Paramount (FIX)
+ - UI change
+======
+ Update V4.9:
+ - Paramount (ProxyCheck FIX)
+======
+Update V4.6 -> V 4.8:
+ - Programming languages was changed, now it consume less resources
+ - Some UI changes [Disney]
+ - Some Paramount changes
+ 
+ - Internal links redirects now are more secure for users
+ - Interal auto-update system now is more secure
+ - X64 -> X86 (Downgrade)
+ - The bots that manage the internal acconuts now are offuscated in order to protect user data
+======
+Update V4.5:
+ - Now ComboCleaner is based on Regex
+ - Now we add more info about the ProxyLess modules
+======
+Update V4.4:
+ - UI Change (One empty space was deleted, and we improve the performance)
+ - DAZN Hit now show the follow information: 
+ subName - subType - subEndDate - [subPrice/subMoney]
+ - eBay added (Premium [FOR EMAIL SPAMMING])
+======
+Update V4.3:
+ - Fix (NBA - CuriosityStream)
+======
+Update V4.2:
+ - Added: Curiosity stream - DAZN - NBA League pass
+ - Added [PAID] Rockstar Games (Social club luncher)
+ - UI Changes (Too many modules, now you have 2 pages to explore)
+======
+Update V4.1 -> 4.2:
+ - Fix (General optimization)
+======
+Update V3.9:
+ - More FreeProxies [Toolbox > FreeProxy]
+======
+Update V3.8:
+ - Fix
+======
+Update V3.7:
+ - Disney (Update [new and more efficient way to test])
+ - Star replaced! (Same as Disney)
+======
+Update V3.6:
+ - New Disney/Star Check! (Experimental)
+======
+Update V3.5 <- 3.4:
+ - Fix (Star+/TunnelBear)
+ 
+ - Fix (Star+/TunnelBear)
+======
+Update V3.3:
+ - DirecTV (Experimental)
+ - Fix (Error while writing file)
+ - Fix (Low CPM)
+ - More FreeProxy
+======
+Update V3.2:
+ - MultiProxySupport
+ - MultiProxyTest
+ - Internal optimizations
+ - We add a back buttom (Yeah, a little bit late)
+======
+Update V3.1 <- V3.0:
+ - Fix (Low CPM [ALL MODULES])
+ 
+ - Fix (Low CPM [HBO])
+======
+Update V2.9:
+ - ALL MODULES SUPPORT EXTREME MODE
+ - Disney FIX
+ - Star FIX
+ - HTTPS SSL Error FIX
+ - Internal optimizations
+======
+Update V2.8:
+ - Disney (Extreme mode support)
+ - Crunchyroll (Extreme mode support)
+ - Star (Extreme mode support)
+ - Paramount (Extreme mode support) 
+======
+Update V2.7
+ - Fix
+======
+Update V2.6:
+ - Netflix updated
+ - Disney/Star Updated 
+======
+Update V2.5 <- V2.4:
+ - Fix
+ 
+ - Fix (ALL THE MODULES AND HBO MAX LOOP PROBLEM SOLVED)
+======
+Update V2.3:
+ - Vix+ (NEW TEXT FIX)
+======
+Update V2.2:
+ - Vix+ ADDED 
+ - LOW SPEED FIXED (FROZEN PROBLEM THAT MAKE THE CHECKER COMPLETELY STOP)
+======
+Update V2.1:
+ - HBOMax (Fix proxy test)
+======
+Update V2.0:
+ - Cyberghost ADDED!
+ - Fix
+======
+Update V1.9:
+ - FreeProxyFix
+======
+Update V1.8:
+ - UI change (ProxyChoose)
+ - SplitCombo option added [ToolBox]
+======
+Update V1.7:
+ - HBO Max Fix
+ - Netflix Fix (Coldown and " - []" sub fixed)
+======
+Update V1.6:
+ - Netflix added (Proxyless VPN recommended)
+======
+Update V1.5:
+ - Proxyless option added!
+ - Netflix (Soon tonight)
+ - Proxyless working (HBO MAX, Tunnelbear, Viki)
+ - If you don't want to wait for the autoupdate just download manually!
+======
+Update V1.4:
+ - Print Fixed (thx S***El)
+ - Better icon :D
+======
+Update V1.3:
+ - We add two new modules (THE FIRST UNIVERSAL+ CHECKER ONLINE!!!!)
+ - Universal+ / DirecTV GO [HIGH QUALITY PROXIES NEEDED]
+======
+Version 1.2 <- 1.0
+ - Closed beta (ALL IN ONE) [Project coffee By C4O5]
+ 
+ - We are back baby!
