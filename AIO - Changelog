@@ -9,25 +9,32 @@ Update                  By:
  Notes:                  C4O5
  
 Last version info:
- [+] Update V6.2 -> V6.7:
- [+] - Internal Fix
- [+] - Proxy selecction changed
- [+]
- [+] - Fix
- [+]
- [+] - Netflix (Fix)
- [+]
- [+] - HBO Max ProxyCheck (Fix)
- [+] - WWE (ADDED)
- [+] - Minecraft (Added)
- [+] - Log -> Combo (Added more prefix, now it extracts more accounts)
- [+] - Max timeout -> 10
- [+] - Internal optimizations
- [+] - DAZN Now is proxyless using VPN VprVPN
- [+] - PayPal FIX (Now the currency can be changed to you own)
- [+] - Ram consuption limited to 240 mb (chunked as much the checker required)
- 
- 
+[+] Update V6.7:
+[+] - ProxySelect Update for small screen
+[+] - New retry system (Update SubSystem change)
+[+] - DirecTV GO Updated! -> End experimantal module
+
+
+
+
+======
+ Update V6.2 -> V6.6:
+ Internal Fix
+ - Proxy selecction changed
+
+ - Fix
+
+ - Netflix (Fix)
+
+ - HBO Max ProxyCheck (Fix)
+ - WWE (ADDED)
+ - Minecraft (Added)
+ - Log -> Combo (Added more prefix, now it extracts more accounts)
+ - Max timeout -> 10
+ - Internal optimizations
+ - DAZN Now is proxyless using VPN VprVPN
+ - PayPal FIX (Now the currency can be changed to you own)
+ - Ram consuption limited to 240 mb (chunked as much the checker required)
 ======
  Update V5.6 -> 6.1:
  - Bug Fix (HBO MAX)
