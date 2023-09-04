@@ -9,15 +9,22 @@ Update                  By:
  Notes:                  C4O5
  
 Last version info:
-[+] Update V6.7:
-[+] - ProxySelect Update for small screen
-[+] - New retry system (Update SubSystem change)
-[+] - DirecTV GO Updated! -> End experimantal module
-
+[+] Update V6.8:
+[+] - Removed recommended VPNs for checking specific modules
+[+] - ProxyScrapper fixed, add new providers
+[+] - HBO Max beta optimization with title, up to 7K CPM using 60M/s internet connection
+[+] - Commertial grade custom title
 
 
 
 ======
+Update V6.7:
+
+ - ProxySelect Update for small screen
+ - New retry system (Update SubSystem change)
+ - DirecTV GO Updated! -> End experimantal module
+
+
  Update V6.2 -> V6.6:
  Internal Fix
  - Proxy selecction changed
