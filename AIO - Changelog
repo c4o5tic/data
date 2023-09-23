@@ -9,15 +9,19 @@ Update                  By:
  Notes:                  C4O5
  
 Last version info:
-[+] Update V6.8:
-[+] - Removed recommended VPNs for checking specific modules
-[+] - ProxyScrapper fixed, add new providers
-[+] - HBO Max beta optimization with title, up to 7K CPM using 60M/s internet connection
-[+] - Commertial grade custom title
-
+[+] Update V7.0:
+[+] - Free hits now are saved
 
 
 ======
+
+Update V6.8 -> V6.9:
+ - Removed recommended VPNs for checking specific modules
+ - ProxyScrapper fixed, add new providers
+
+ - HBO Max beta optimization with title, up to 7K CPM using 60M/s internet connection
+ - Commertial grade custom title
+
 Update V6.7:
 
  - ProxySelect Update for small screen
