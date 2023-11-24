@@ -9,12 +9,17 @@ Update                  By:
  Notes:                  C4O5
  
 Last version info:
-[+] Update V7.2:
-[+] - Fix
-[+] - New module added [MAX] -> New service by discovery
+[+] Update V7.3:
+[+] - Fix Disney
+[+] - Fix Star
+[+] - Fix Netflix
+[+] - Now rotatory proxies are supported (proxy_ip:proxy_port:user:port)
 
 
-
+======
+ Update V7.2:
+ - Fix
+ - New module added [MAX] -> New service by discovery
 ======
  Update V7.1:
  - Hit sender fixed for coommertial usage
