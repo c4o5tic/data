@@ -9,11 +9,16 @@ Update                  By:
  Notes:                  C4O5
  
 Last version info:
-[+] Update V7.4:
-[+] - Fix crunchroll to api v2
-[+] - Now miliseconds on timeout are accepted
-[+] - Other optimizations
+[+] Update V7.5:
+[+] - The modules that are not working now are showed on red
+[+] - Fix a bug on toolbox, combo cleanner was showing the removed lines badly
 
+
+======
+Update V7.4:
+ - Fix crunchroll to api v2
+ - Now miliseconds on timeout are accepted
+ - Other optimizations
 ======
 Update V7.3:
  - Fix Disney
