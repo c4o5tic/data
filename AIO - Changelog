@@ -9,11 +9,13 @@ Update                  By:
  Notes:                  C4O5
  
 Last version info:
-[+] Update V7.5:
-[+] - The modules that are not working now are showed on red
-[+] - Fix a bug on toolbox, combo cleanner was showing the removed lines badly
+[+] Update V7.6:
+[+] - Netflix fixed
 
-
+======
+Update V7.5:
+ - The modules that are not working now are showed on red
+ - Fix a bug on toolbox, combo cleanner was showing the removed lines badly
 ======
 Update V7.4:
  - Fix crunchroll to api v2
