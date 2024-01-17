@@ -9,10 +9,14 @@ Update                  By:
  Notes:                  C4O5
  
 Last version info:
-[+] Update V7.8:
-[+] - Fix on Disney module (I release the update with the dev mode enabled)
-[+] - Crunchyroll fixed
+[+] Update V7.9:
+[+] - Country codes now are translated to English
+[+] - Internal optimizations
 
+======
+Update V7.8:
+ - Fix on Disney module (I release the update with the dev mode enabled)
+ - Crunchyroll fixed
 ======
 Update V7.7:
  - Netflix now save the cookies
